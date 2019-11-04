@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2016
+VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create-a-Report-Bound-to-JsonDataSource", "Reporting_Create-a-Report-Bound-To-JsonDataSource\Create-a-Report-Bound-to-JsonDataSource.csproj", "{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}"
 EndProject
@@ -15,11 +15,11 @@ Global
 		{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B45136BD-1DE0-40FE-AF9B-AC4EEAC33645}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
+		EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {42467C15-6877-404A-905B-98C90C858482}
+		SolutionGuid = {4E242A74-BB9B-45D1-AD6B-D572D79C26DC}
 	EndGlobalSection
 EndGlobal
